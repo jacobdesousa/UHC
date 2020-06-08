@@ -1,0 +1,90 @@
+name: UHC
+main: me.nitro.uhc.UHC
+version: 1.0.0
+authors: [Jacob, Ryan]
+commands:
+  sc:
+    description: Sends your coordinates to your teammates.
+  scatter:
+    description: Scatters players for game start.
+  sca:
+    description: Alias for scatter command.
+  team:
+    description: Main team command. /team for help.
+  absorption:
+    description: Toggles absorption.
+  deathlightning:
+    description: Toggles the lightning effect on death.
+  giveall:
+    description: Gives all online players an amount of a certain item.
+  ghasttears:
+    description: Toggles the ability to get ghast tears.
+  goldenheads:
+    description: Toggles the ability to craft golden heads.
+  hardrecipes:
+    description: Toggles hard recipes.
+  headdrop:
+    description: Toggles the dropping of heads.
+  help:
+    description: Sends a help message to the staff.
+  helpop:
+    description: Sends a help message to the staff.
+  nether:
+    description: Toggles the nether.
+  naturalregeneration:
+    description: Toggles the ability to regenerate heatlh naturally.
+  notchapples:
+    description: Toggles the ability to craft Notch Apples.
+  pearldamage:
+    description: Toggles pearl damage.
+  permaday:
+    description: Toggles permanent day.
+  pvp:
+    description: Displays the current PVP status. Can be used to toggle PVP.
+  report:
+    description: Report a player.
+  scenarios:
+    description: Displays all of the currently enabled scenarios.
+  uhc:
+    description: Alias for config command.
+  config:
+    description: Displays the game settings.
+  whitelist:
+    description: The whitelist command.
+  witchspawns:
+    description: Toggles witch spawns.
+  wl:
+    description: The whitelist command.
+  cutclean:
+    description: Toggles the CutClean scenario.
+  hasteyboys:
+    description: Toggles the Hastey Boys scenario.
+  horseless:
+    description: Toggles the Horseless scenario.
+  h:
+    description: Alias for the health command.
+  health:
+    description: Displays a player's health.
+  timber:
+    description: Toggles the Timber scenario.
+  noclean:
+    description: Toggles the NoClean scenario.
+  applerates:
+    description: Set the apple rates.
+  game:
+    description: Main game command.
+  backpacks:
+    description: Toggles the Backpacks scenario.
+  bp:
+    description: Opens your backpack.
+  backpack:
+    description: Opens your backpack.
+  hostilemobs:
+    description: Toggles hostile mobs.
+  revive:
+    description: Revives a player.
+  gametime:
+    description: Displays the game time.
+  kills:
+    description: Lists the kills of the players.
+    aliases: [kt, killtop]

@@ -1,0 +1,226 @@
+prefix: "&c&lNitro: &r"
+
+joinMessage: "&c&m------------------------------------------------------------&r\n
+ \n
+&7Welcome to the &cNitro UHC &7server!\n
+ \n
+ \n
+&c&lReddit: &r&7https://www.reddit.com/r/ultrahardcore/\n
+&c&lMatch Calender: &r&7https://uhc.gg/\n
+ \n
+&c&m------------------------------------------------------------&r"
+
+noPermission: "&cInsufficient Permission"
+playerOnly: "&cThis command can only be executed by a player."
+invalidPlayer: "&cInvalid Player."
+
+#PVP Toggle
+pvpEnable: "&7PVP has been &aenabled&7."
+pvpDisable: "&7PVP has been &cdisabled&7."
+pvpAlreadyEnabled: "&7PVP is already &aenabled&7."
+pvpAlreadyDisabled: "&7PVP is already &cdisabled&7."
+pvpEnabled: "&7PVP is currently &aenabled&7."
+pvpDisabled: "&7PVP is currently &cdisabled&7."
+pvpUsage: "&7Correct Usage: /pvp <on/off/status>"
+
+#GiveAll Command
+giveallUsage: "&7Correct Usage: /giveall <item> <quantity>"
+invalidItem: "&7Invalid Item."
+invalidQuantity: "&7Invalid Quantity."
+
+#HelpOp
+completedHelp: "&7All online admins have received your message."
+helpOpUsage: "&7Correct usage: /helpop <message>."
+helpOpCooldown: "&7Please wait before using /helpop again."
+
+#Death Lightning
+deathLightningEnable: "&7Death Lightning has been &aenabled&7."
+deathLightningDisable: "&7Death Lightning has been &cdisabled&7."
+
+#Absorption
+absorptionEnable: "&7Absorption has been &aenabled&7."
+absorptionDisable: "&7Absorption has been &cdisabled&7."
+
+#Ghast Tears
+ghastTearEnable: "&7Ghast Tears have been &aenabled&7."
+ghastTearDisable: "&7Ghast Tears have been &cdisabled&7."
+
+#Golden Heads
+goldenHeadEnable: "&7Golden Heads have been &aenabled&7."
+goldenHeadDisable: "&7Golden Heads have been &cdisabled&7."
+
+#Hard Recipes
+hardRecipesEnable: "&7Hard Recipes have been &aenabled&7."
+hardRecipesDisable: "&7Hard Recipes have been &cdisabled&7."
+
+#Head Drop
+headDropEnable: "&7Head Drop has been &aenabled&7."
+headDropDisable: "&7Head Drop has been &cdisabled&7."
+
+#Health
+healthUsage: "&7Correct Usage: /h <name>"
+
+#Hostile Mobs
+hostileMobsEnable: "&7Hostile Mobs have been &aenabled&7."
+hostileMobsDisable: "&7Hostile Mobs have been &cdisabled&7."
+
+#Natural Regeneration
+regenEnable: "&7Natural Regeneration has been &aenabled&7."
+regenDisable: "&7Natural Regeneration has been &cdisabled&7."
+
+#Notch Apples
+notchAppleEnable: "&7Notch Apples have been &aenabled&7."
+notchAppleDisable: "&7Notch Apples have been &cdisabled&7."
+notchApplesDisabled: "&7Notch Apples are &cdisabled&7."
+
+#Pearl Damage
+pearlDamageEnable: "&7Pearl Damage has been &aenabled&7."
+pearlDamageDisable: "&7Pearl Damage has been &cdisabled&7."
+
+#Toggle Nether
+netherEnable: "&7Nether has been &aenabled&7."
+netherDisable: "&7Nether has been &cdisabled&7."
+netherDisabled: "&7The Nether is currently &cdisabled&7."
+
+#Whitelist
+wlUsage: "&7Correct Usage: /wl <on/off/add/remove/all/clear/list>"
+wlEnable: "&7Whitelist has been &aenabled&7."
+wlDisable: "&7Whitelist has been &cdisabled&7."
+wlAllAdded: "&7All players have been added to the whitelist."
+wlClear: "&7The whitelist has been cleared."
+wlList: "&7Whitelisted Players:"
+wlAddUsage: "&7Correct Usage: /wl add <name>"
+wlRemoveUsage: "&7Correct Usage: /wl remove <name>"
+notWhitelisted: "&7You are not whitelisted!"
+
+#Witch Spawns
+witchSpawnEnable: "&7Witch Spawns have been &aenabled&7."
+witchSpawnDisable: "&7Witch Spawns have been &cdisabled&7."
+
+#Scatter
+scatterUsage: "&7Correct Usage: /scatter <world> <radius> <mindist> <x> <z>"
+invalidWorld: "&7Invalid World."
+scatteringSolos: "&7Scattering Solos..."
+scatteringTeams: "&7Scattering Teams..."
+scatterTeleport: "&7Locations found. Teleporting..."
+scattered: "&7You have been scattered."
+scatterComplete: "&7Scatter Complete."
+missedScatter: "&7The following player(s) were not scattered due to being offline. They will be scattered when they rejoin."
+
+#Teams
+teamDisbanded: "&7Your team has been disbanded."
+kickedFromTeam: "&7You have been removed from your team."
+noTeam: "&7You are not on a team."
+adminHelp: "&c&lNitro Admin Teams Help:\n
+&7 - &c/team invite -\n
+ &7This will create a team if you are not already in one, and then will send the selected player an invite to join your team. The invite will last 30 seconds.\n
+&7 - &c/team accept -\n
+ &7This will accept a pending invite, placing you on the team you were most recently invited to.\n
+&7 - &c/team leave -\n
+ &7This will remove you from your current team. If you were a team leader, the team will be disbanded.\n
+&7 - &c/team list -\n
+ &7This will list all members in your current team.\n
+&7 - &c/sc -\n
+ &7This will send your current coordinates to your teammates.\n
+&7 - &c/team management -\n
+ &7This will enable or disable the ability for normal players to manage teams.\n
+&7 - &c/team limit -\n
+ &7This will set the limit for the number of players allowed on a team.\n
+&7 - &c/team forceleave -\n
+ &7This will remove the specified player from their team if they are in one.\n
+&7 - &c/team reset -\n
+ &7This will reset ALL teams."
+playerHelp: "&c&lNitro Teams Help:\n
+&7 - &c/team invite -\n
+  &7This will create a team if you are not already in one, and then will send the selected player an invite to join your team. The invite will last 30 seconds.\n
+&7 - &c/team accept -\n
+  &7This will accept a pending invite, placing you on the team you were most recently invited to.\n
+&7 - &c/team leave -\n
+  &7This will remove you from your current team. If you were a team leader, the team will be disbanded.\n
+&7 - &c/team list -\n
+  &7This will list all members in your current team.\n
+&7 - &c/sc -\n
+  &7This will send your current coordinates to your teammates."
+managementDisabled: "&7Team Management is currently disabled. Please alert your host."
+ffaGame: "&7This is an FFA game. You cannot make teams."
+teamLimitReached: "&7Your team is at the max player limit."
+failedInviteNotLeader: "&7You are not the team leader, if you wish to invite a player to your team, please alert your leader."
+failedDisbandNotLeader: "&7You are not the team leader, if you wish to disband your team, please alert your leader."
+teamFull: "&7You could not join this team as it is full."
+playerNoTeam: "&7That player is not on a team."
+tManageOn: "&7Team management has been turned: &con&7."
+tManageOff: "&7Team management has been turned: &coff&7."
+tManageUsage: "&7Correct Usage: /team management [on/off]."
+maxLimit: "&7Please set a team limit that is of 10 or less."
+limitChanged: "&7Team limit has been successfully changed."
+limitUsage: "&7Correct Usage: /team limit [number]."
+forceLeaveUsage: "&7Correct Usage: /team forceleave [player]."
+disbandAdminUsage: "&7Correct Usage: /team disband [player]."
+disbandUsage: "&7Correct Usage: /team disband."
+teamsReset: "&7&lAll teams have been cleared and reset."
+noSelfInvite: "&7You cannot invite yourself."
+
+#CutClean
+cutCleanEnable: "&7CutClean has been &aenabled&7."
+cutCleanDisable: "&7CutClean has been &cdisabled&7."
+
+#Timber
+timberEnable: "&7Timber has been &aenabled&7."
+timberDisable: "&7Timber has been &cdisabled&7."
+
+#NoClean
+noCleanEnable: "&7NoClean has been &aenabled&7."
+noCleanDisable: "&7NoClean has been &cdisabled&7."
+noDamage: "&7This player currently has NoClean, you cannot hurt them."
+noCleanLost: "&7You have lost your NoClean due to attacking."
+noCleanExpired: "&7Your NoClean has expired."
+noCleanEnabled: "&7NoClean has been activated for 15 seconds."
+
+#Backpacks
+backpacksEnable: "&7Backpacks have been &aenabled&7."
+backpacksDisable: "&7Backpacks have been &cdisabled&7."
+backpacksDisabled: "&7Backpacks are currently disabled."
+noTeamGame: "&7This is not a team game. You cannot enable backpacks."
+
+#HasetyBoys
+hasteyBoysEnable: "&7Hastey Boys has been &aenabled&7."
+hasteyBoysDisable: "&7Hastey Boys has been &cdisabled&7."
+
+#Apple Rates
+appleRatesUsage: "&7Correct Usage: /applerates <percent>"
+appleRatesChanged: "&7Apple Rates have been successfully changed."
+
+#Report
+reportUsage: "&7Correct Usage: /report <player>"
+reportConfirm: "&7Thanks for your report."
+
+#GameManager
+gameUsage: "&7Correct Usage: /game <start/addplayer/removeplayer/healtime/pvptime/bordersize/shrinktime/setworld/generateborder/time/players>"
+gameAlreadyRunning: "&7There is already a game running."
+noGame: "&7There is no game running."
+addPlayerUsage: "&7Correct Usage: /game addplayer <player>"
+removePlayerUsage: "&7Correct Usage: /game removeplayer <player>"
+playerAlreadyInGame: "&7That player is already in the game."
+healGiven: "&7Final Heal has been given."
+invalidInput: "&7Please enter a whole number."
+healTimeUpdated: "&7Heal Time has been updated."
+pvpTimeUpdated: "&7PVP Time has been updated."
+shrinkTimeUpdated: "&7Shrink Time has been updated."
+borderSizeUpdated: "&7Starting Border Size has been updated."
+worldUpdated: "&7Game World has been updated."
+borderGenerated: "&7Border Generated."
+gameWorldNotSet: "&7Please set the game world."
+gameStart: "&7The game is now starting."
+
+#Revive
+reviveUsage: "&7Correct Usage: /revive <player>"
+noDeathFound: "&7No death found for that player."
+revived: "&7You have been revived."
+
+#DeathKick
+toBeDeathKicked: "&7Thank you for playing! You will be kicked in 15 seconds."
+deathKicked: "&7Thanks for playing!"
+
+#ChatCooldown
+chatCooldown: "&7Please wait before sending another message."
+
